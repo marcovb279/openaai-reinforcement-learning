@@ -1,6 +1,6 @@
 # Q-learning lunar Lander
 
-Q-learning agent using [pytorch](https://pytorch.org/) to solve the lunar lander scenario of OpenAI gym.
+Q-learning agent using [pytorch](https://pytorch.org/) to solve the lunar lander scenario of OpenAI Gym.
 
 <hr class="dashed">
 

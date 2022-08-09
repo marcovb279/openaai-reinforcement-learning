@@ -1,6 +1,6 @@
 # Q-learning Lunar Lander
 
-Q-Learning agent using pytorch to solve the Lunar lander scenario of Gym OpenAI.
+Q-Learning agent using [pytorch](https://pytorch.org/) to solve the Lunar lander scenario of Gym OpenAI.
 
 ### Training results
 The agent solves the sceneari after approximately 500 epochs
@@ -12,4 +12,28 @@ The agent solves the sceneari after approximately 500 epochs
             width:500px;
             height:350px"/>
   </a>
+</p>
+
+#### Episode 100
+<p align="center">
+    <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander100e.png" 
+            style="object-fit:scale-down;
+            width:500px;
+            height:350px"/>
+</p>
+
+#### Episode 300
+<p align="center">
+    <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander300e.png" 
+            style="object-fit:scale-down;
+            width:500px;
+            height:350px"/>
+</p>
+
+#### Episode 400
+<p align="center">
+    <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander400e.png" 
+            style="object-fit:scale-down;
+            width:500px;
+            height:350px"/>
 </p>

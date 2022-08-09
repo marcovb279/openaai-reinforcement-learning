@@ -112,7 +112,7 @@ class Agent:
             self.nn_q.train()
             q_expected = self.nn_q(states).gather(1, actions)
 
-            #Train
+            #Training
             self.optimizer.zero_grad()
             self.nn_q.zero_grad()
             loss = F.mse_loss(q_expected, q_target)

@@ -9,8 +9,8 @@ The agent solves the sceneario after approximately 500 epochs. ![Video](https://
 
 <hr class="dashed">
 
+#### Rewards
 <p align="center">
-  <h4 align="center">Rewards</h3><br/>
   <a align="center" href="https://www.youtube.com/watch?v=sWJYzaCTtoM">
     <img src="https://github.com/marcovb279/openai-reinforcement-learning/blob/master/training/Rewards.png" 
             style="object-fit:scale-down;

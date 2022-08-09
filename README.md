@@ -19,9 +19,9 @@ The agent solves the sceneario after approximately 500 epochs
 
 <hr class="dashed">
 
+#### Episode 100
 <p align="center">
-    <h3 align="center">Episode 100</h3><br/>
-    <img align="center" src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander100e.png" 
+    <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander100e.png" 
             style="object-fit:scale-down;
             width:500px;
             height:350px"/>

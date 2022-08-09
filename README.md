@@ -5,7 +5,7 @@ Q-Learning agent using [pytorch](https://pytorch.org/) to solve the Lunar lander
 <hr class="dashed">
 
 ### Results
-The agent solves the sceneario after approximately 500 epochs
+The agent solves the sceneario after approximately 500 epochs. ![Video](https://www.youtube.com/watch?v=sWJYzaCTtoM).
 
 <hr class="dashed">
 
@@ -31,9 +31,9 @@ The agent solves the sceneario after approximately 500 epochs
 
 <hr class="dashed">
 
+#### Episode 300
 <p align="center">
-    <h3 align="center">Episode 300</h3><br/>
-    <img align="center" src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander300e.png" 
+    <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander300e.png" 
             style="object-fit:scale-down;
             width:500px;
             height:350px"/>
@@ -41,9 +41,9 @@ The agent solves the sceneario after approximately 500 epochs
 
 <hr class="dashed">
 
+#### Episode 400
 <p align="center">
-    <h3 align="center">Episode 400</h3><br/>
-    <img align="center" src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander400e.png" 
+    <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander400e.png" 
             style="object-fit:scale-down;
             width:500px;
             height:350px"/>

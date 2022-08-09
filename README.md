@@ -15,7 +15,7 @@ The agent solves the sceneari after approximately 500 epochs
 </p>
 
 <p align="center">
-    Episode 100
+    Episode 100<br/>
     <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander100e.png" 
             style="object-fit:scale-down;
             width:500px;

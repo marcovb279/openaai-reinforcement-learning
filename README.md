@@ -19,7 +19,7 @@ The agent solves the sceneario after approximately 500 epochs: [video](https://w
 
 <hr class="dashed">
 
-#### Episode 100
+* Episode 100
 <p align="center">
     <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander100e.png" 
             style="object-fit:scale-down;
@@ -29,7 +29,7 @@ The agent solves the sceneario after approximately 500 epochs: [video](https://w
 
 <hr class="dashed">
 
-#### Episode 300
+* Episode 300
 <p align="center">
     <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander300e.png" 
             style="object-fit:scale-down;
@@ -39,7 +39,7 @@ The agent solves the sceneario after approximately 500 epochs: [video](https://w
 
 <hr class="dashed">
 
-#### Episode 400
+* Episode 400
 <p align="center">
     <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/lunarlander400e.png" 
             style="object-fit:scale-down;
